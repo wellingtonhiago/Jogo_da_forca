@@ -11,7 +11,6 @@ palpites = []
 letras_permitidas = "qwertyuiopasdfghjklzxcvbnm"
 
 print(letras_ocultas)
-
 while(attempts > 0):
     resposta = input("Input a letter: ")
     indice = 0
